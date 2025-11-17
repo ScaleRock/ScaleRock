@@ -1,29 +1,68 @@
-# Welcome
-I'm a beginner programmer and tech enthusiast, passionate about learning new technologies and improving my skills every day. I enjoy both coding and understanding how systems and networks work behind the scenes.  
+<h1 align="center">👋 Welcome to My Space</h1>
+<p align="center">
+  Beginner programmer • Tech enthusiast • Always learning
+</p>
 
 ---
 
-## 🖥️ Programming & Scripting
-I primarily code in **Java** and **C**, exploring concepts like object-oriented programming, algorithms.  
-I also have some experience with **Bash scripting**, which I use to automate tasks and manage my Linux environment. Learning new languages and tools is something I actively pursue to broaden my knowledge.
+## 🖥️ Programming  
+> _"Code. Break. Fix. Learn."_  
+
+### 🧩 Core Skills
+- **Java/Scala** — OOP, algorithms, backend basics  
+- **C** — low-level concepts, memory, system understanding  
+- **Bash** — automation, tooling, workflow optimization  
+
+### 🔧 Currently Exploring
+- Desktop app desin  
+- More efficient system and networming tools  
+- Building cleaner and more scalable code  
 
 ---
 
-## 💻 Daily Environment
-I use **Linux** as my main operating system, which helps me develop a strong understanding of the terminal, system administration, and open-source tools.  
-I am comfortable navigating file systems, managing processes, and customizing my workflow to improve efficiency.  
+## 💻 Environment & Tools
+<table>
+<tr><td>
+
+### 🐧 Linux  
+- Daily driver, full-time  
+- Terminal-focused workflow  
+- System customization & administration  
+
+</td><td>
+
+### ⚙️ Tools I Use  
+- Git & GitHub  
+- Bash scripts  
+- Virtualization & containers  
+
+</td></tr>
+</table>
 
 ---
 
 ## 🌐 Networking & Systems
-I have hands-on experience with **Windows Server**, including basic administration tasks, and I understand core networking concepts.  
-I can configure **routers** and **L2 switches**, and I have practical knowledge of IP addressing, VLANs, and network troubleshooting.  
-I combine both **theory** and **practice**, and I enjoy experimenting with network setups and learning how systems communicate with each other.  
+### 📡 Practical Experience
+- Basic **Windows Server** administration  
+- Configuring **routers** & **L2 switches**  
+- Understanding IP addressing, routing, VLANs  
+- Solving common network issues  
+
+### 🧪 What I Enjoy  
+- Experimenting with isolated networks  
+- Building small virtual labs  
+- Connecting theory with real setups  
 
 ---
 
-## 🎯 Goals & Learning Path
-- Expand my programming skills and build more complex projects  
-- Deepen my understanding of networking, server administration, and Linux internals  
-- Explore more programming languages and frameworks to become a versatile developer  
+## 🎯 Goals
+- 🚀 Build more advanced programming projects  
+- 🔍 Learn Linux internals & deeper system concepts  
+- 🌍 Expand networking + server administration skills  
+- 🛠️ Explore new languages & frameworks  
 
+---
+
+<p align="center">
+  <sub>Always improving. Always curious.</sub>
+</p>
